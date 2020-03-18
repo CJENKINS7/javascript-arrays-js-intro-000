@@ -5,3 +5,9 @@ var chocolateBars = [ "snicker", "hundred grand", "kitkat", "skittles"];
 var chocolateBars = [ "snicker", "hundred grand", "kitkat", "skittles"];
 
 ["mints", ...chocolateBars,];
+
+//destructivelyAddElementToEndOfArray
+
+var chocolateBars = [ "snicker", "hundred grand", "kitkat", "skittles"];
+
+ [...chocolateBars, "mints"]
