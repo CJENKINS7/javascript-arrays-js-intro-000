@@ -2,6 +2,6 @@
 var chocolateBars = [ "snicker", "hundred grand", "kitkat", "skittles"];
 
 //addElementToBeginningOfArray
-var friends = [ "Joey", "Chandler"];
+var chocolateBars = [ "snicker", "hundred grand", "kitkat", "skittles"];
 
 [...friends, "Ross"] // ["Joey", "Chandler", "Ross"]
